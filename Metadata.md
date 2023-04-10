@@ -3,56 +3,81 @@
 All the Data that made RockHub possible!
 
 #
-Alberta 
+**Alberta** 
 
-(link)
+Publisher: Alberta Geological Survey
+https://geology-ags-aer.opendata.arcgis.com/datasets/ags-aer::simplified-bedrock-geology-ags-map-600/explore
+Data Verison: September 9, 2021
 
-British Columbia 
+**British Columbia** 
 
-(link)
+Publisher: Government of British Columbia
+https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/british-columbia-geological-survey/geology/bcdigitalgeology
+Data Verison: 2019
 
-Manitoba 
+**Manitoba** 
 
+Publisher: 
 (link) 
+Data Verison:
 
-New Brunswick 
+**New Brunswick** 
 
-(link)
+Publisher: Government of New Brunswick
+https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/data_download.html#bedrock
+Data Verison: 2018
 
-Newfoundland and Labrador 
+**Newfoundland and Labrador** 
 
-(link)
-
-Northwest_Territories 
-
+Publisher: 
 (link) 
+Data Verison:
 
+**Northwest Territories** 
 
-Nova Sctoia 
+Publisher: 
+(link) 
+Data Verison:
 
-(link)
+**Nova Sctoia** 
 
-Nunavut 
+Publisher: 
+(link) 
+Data Verison:
 
-(link)
+**Nunavut** 
 
-Ontario 
+Publisher: 
+(link) 
+Data Verison:
 
-(link)
+**Ontario** 
 
-Prince Edward Island 
+Publisher: 
+(link) 
+Data Verison:
 
-(link)
+**Prince Edward Island** 
 
-Quebec 
+Publisher: 
+(link) 
+Data Verison:
 
-(link)
+**Quebec** 
 
-Saskatchewan 
+Publisher: 
+(link) 
+Data Verison:
 
-(link)
+**Saskatchewan** 
 
-Yukon 
+Publisher: 
+(link) 
+Data Verison:
 
-(link)
+**Yukon** 
+
+Publisher: 
+(link) 
+Data Verison:
 
